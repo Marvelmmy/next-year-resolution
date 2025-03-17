@@ -1,0 +1,4 @@
+Action item used for content creating:
+1. make content of youtube tutorial about basic javascript
+2. Make a long video about VCS
+3. ect
