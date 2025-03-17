@@ -1,0 +1,4 @@
+I want to learn python:
+1. basic python
+2. data structures
+3. OOP
